@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Rivers",
+    "role": "Senior Developer",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Samantha Chen",
+    "role": "UX Designer",
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Jordan Taylor",
+    "role": "Project Manager",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Maria Garcia",
+    "role": "Marketing Lead",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "David Kim",
+    "role": "Backend Engineer",
+    "available": false
+  },
+  {
+    "id": 6,
+    "name": "Priya Sharma",
+    "role": "Data Analyst",
+    "available": true
+  }
+]
